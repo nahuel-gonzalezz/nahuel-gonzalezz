@@ -36,7 +36,7 @@
 <img src="https://img.shields.io/badge/Ver%20Sitio%20Web-3498db?style=for-the-badge&logo=google-chrome&logoColor=white">
 </a>
 </p>
-<p>Desarrolle el sitio web para el festival Gonzagapalooza, desarrollado con Google Sites.</p>
+<p>Desarrolle el sitio web para el festival Gonzagapalooza, desarrollado con Google Sites. Diseñada con una tienda online, un sistema de subida de videos y fotos del fedtival y ¡¡más!!</p>
 </div>                                                             
 </td>
 </tr>
