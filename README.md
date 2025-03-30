@@ -22,7 +22,7 @@
 <img src="https://img.shields.io/badge/Ver%20Sitio%20Web-3498db?style=for-the-badge&logo=google-chrome&logoColor=white">
 </a>
 </p>
-<p>Un sitio web profesional para Clínica Boedo, optimizado para ofrecer una experiencia de usuario eficiente y moderna.</p>
+<p>Colabore en el frontend del sitio web profesional para Clínica Boedo, optimizado para ofrecer una experiencia de usuario eficiente y moderna.</p>
 </div>
 </td>
 
@@ -30,13 +30,13 @@
 <h3 align="center">Gonzagapalooza 2024</h3>
 <div align="center">                                       
 <a href="https://sites.google.com/view/gonzagapalooza-2024/inicio" target="_blank">
-<img src="https://github.com/nahuel-gonzalezz/nahuel-gonzalezz/blob/main/miniatura2.png" width="400" alt="Gonzagapalooza 2024"></a>
+<img src="https://github.com/nahuel-gonzalezz/nahuel-gonzalezz/blob/main/miniatura2.png" width="400" alt="Gonzagapalooza"></a>
 <p>
 <a href="https://sites.google.com/view/gonzagapalooza-2024/inicio" target="_blank">
 <img src="https://img.shields.io/badge/Ver%20Sitio%20Web-3498db?style=for-the-badge&logo=google-chrome&logoColor=white">
 </a>
 </p>
-<p>Un sitio web dinámico para el festival Gonzagapalooza 2024, desarrollado con Google Sites.</p>
+<p>Desarrolle el sitio web para el festival Gonzagapalooza, desarrollado con Google Sites.</p>
 </div>                                                             
 </td>
 </tr>
