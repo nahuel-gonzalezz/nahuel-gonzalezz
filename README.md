@@ -27,10 +27,10 @@
 </td>
 
 <td width="50%">
-<h3 align="center">Gonzagapalooza 2024</h3>
+<h3 align="center">Gonzagapalooza</h3>
 <div align="center">                                       
 <a href="https://sites.google.com/view/gonzagapalooza-2024/inicio" target="_blank">
-<img src="https://github.com/nahuel-gonzalezz/nahuel-gonzalezz/blob/main/miniatura2.png" width="400" alt="Gonzagapalooza"></a>
+<img src="https://github.com/nahuel-gonzalezz/nahuel-gonzalezz/blob/main/miniatura2.png" width="400" alt="Gonzagapalooza 2024"></a>
 <p>
 <a href="https://sites.google.com/view/gonzagapalooza-2024/inicio" target="_blank">
 <img src="https://img.shields.io/badge/Ver%20Sitio%20Web-3498db?style=for-the-badge&logo=google-chrome&logoColor=white">
