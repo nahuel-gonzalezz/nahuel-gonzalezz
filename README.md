@@ -2,6 +2,10 @@
 
 ![Banner de mi perfil](https://github.com/nahuel-gonzalezz/nahuel-gonzalezz/blob/main/banner.png)
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Nahuel%20González-blue?style=social&logo=linkedin)](https://www.linkedin.com/in/nahuel-ezequiel-gonzalez-matiacevich-4b26a933b/)
+[![Email](https://img.shields.io/badge/Email-nahuel.gonzalez%40fenixsolutions.com.ar-red?style=social&logo=gmail)](mailto:nahuel.gonzalez@fenixsolutions.com.ar)
+
+
 🚀 Desarrollador web con experiencia en **HTML, CSS y JavaScript**  
 🎨 Me especializo en **diseño atractivo y funcionalidad web**  
 📌 También tengo experiencia en **WordPress y Google Sites**  
